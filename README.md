@@ -19,4 +19,7 @@ https://github.com/EOSIO/eosjs
 https://github.com/EOSIO/eos
 https://github.com/EOSIO/eosio.contracts
 
+### Artigos e discussões
+https://medium.com/eosio/announcing-elemental-battles-block-ones-3215a8e2cdee
+https://link.medium.com/v4gZ0FnmfR
 
