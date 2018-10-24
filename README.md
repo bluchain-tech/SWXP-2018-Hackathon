@@ -5,6 +5,8 @@
 https://drive.google.com/open?id=1cqXL95lb6wGcYBCca9uHQMDyYo-MYLV_LQIrZm8mGu0
 ### Vídeo
 https://drive.google.com/file/d/1GONoKzzGZU63X6EjAbul2TCKbyrQ9LgI/view?usp=sharing
+### Passo a passo
+https://docs.google.com/document/d/1q4tHUrGJpeaMRzC8TZqda1Hl6JH9z-D_2pN8Ks2I-Wk/edit
 
 ## Recursos sobre EOS.IO
 ### Documentacao compilada pelo Eos New York
